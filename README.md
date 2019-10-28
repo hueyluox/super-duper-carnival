@@ -17,3 +17,6 @@ Some small projects based on arduino uno
 ###	如果使用默认的I2C引脚D4 / D5，则将OLED_RESET更改为其他引脚。
 ### 如果缺少相应库函数导致无法编译，请移步可以在Arduino库管理器中找到。
 ### 如果屏幕闪烁请检查接线问题，源程序中已经写好接线。
+
+##下载整个压缩包直接用arduino ide打开.ino结尾的程序即可。
+##要把ic验证部分更改为自己所持有卡的信息。
